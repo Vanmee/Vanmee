@@ -35,20 +35,11 @@ I use Typescript, React, SCSS, MUI in ny day today work.
 
 <br/>  
 
-## Github Stats  
+### Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=vanmee&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-<br/>  
-
   
 <br/>  
 
 <img src="https://komarev.com/ghpvc/?username=vanmee&&style=flat-square" align="center" />
   
-
 <br/>  
-
-
-<br />
-
-----
