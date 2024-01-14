@@ -18,7 +18,7 @@ I use Typescript, React, SCSS, MUI in ny day today work.
 ### Socials
 
 <div id="badges">
-  <a href="[[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/vanmeeganathanpk/)](https://www.linkedin.com/in/vanmeeganathanpk/)">
+  <a href="[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/vanmeeganathanpk/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
