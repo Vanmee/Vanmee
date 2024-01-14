@@ -15,16 +15,8 @@ I use Typescript, React, SCSS, MUI in ny day today work.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,tailwind,graphql,git,docker,wordpress)](https://skillicons.dev) 
 <br/>
 
-### Socials
+### Connect with me 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vanmeeganathanpk">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-## Connect with me  
-<div align="center">
 <a href="https://github.com/Vanmee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -40,23 +32,18 @@ I use Typescript, React, SCSS, MUI in ny day today work.
 <a href="https://medium.com/@vanmeega" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanmee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=vanmee&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <br/>  
 
   
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+<img src="https://komarev.com/ghpvc/?username=vanmee&&style=flat-square" align="center" />
   
 
 <br/>  
