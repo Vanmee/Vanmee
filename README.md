@@ -1,4 +1,4 @@
-Hi! I am Vanmeeganathan P K
+Vanmeeganathan P K
 ========================================================================================================================================
 
 I am a Front-End Developer based in Bengaluru, India. I have around 9 years of experience.
