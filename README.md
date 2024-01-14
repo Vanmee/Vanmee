@@ -1,7 +1,7 @@
-Hi! I am Vanmeeganathan P K 😄
+Hi! I am Vanmeeganathan P K
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Bengaluru, India. 
+I am a Front-End Developer based in Bengaluru, India. 
 I have worked for around 9 years of experience working for companies like Mercedez Benz R&D, Oracle India Pvt Ltd. and Sixt R&D.
 <br/>
 
