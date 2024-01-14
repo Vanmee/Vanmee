@@ -7,7 +7,7 @@ I am currently working as an SDE 2 at Sixt R&D, Bengaluru.
 
 I have previously worked for Oracle India and Mercedes Benz R&D.
 
-I use Typescript, React, SCSS, MUI in ny day today work.
+I use Typescript, React, SCSS, MUI in my day today work.
 <br/>
 
 ### Skills
