@@ -1,8 +1,13 @@
 Hi! I am Vanmeeganathan P K
 ========================================================================================================================================
 
-I am a Front-End Developer based in Bengaluru, India. 
-I have worked for around 9 years of experience working for companies like Mercedez Benz R&D, Oracle India Pvt Ltd. and Sixt R&D.
+I am a Front-End Developer based in Bengaluru, India. I have around 9 years of experience.
+
+I am currently working as an SDE 2 at Sixt R&D, Bengaluru.
+
+I have previously worked for Oracle India and Mercedes Benz R&D.
+
+I use Typescript, React, SCSS, MUI in ny day today work.
 <br/>
 
 ### Skills
